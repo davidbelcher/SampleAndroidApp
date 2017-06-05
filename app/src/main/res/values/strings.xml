@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShazamExercise</string>
+    <string name="chart_tap_to_retry_error">Ooops!\nWe were unable to load this chart.\n\nTap here to try again.</string>
+    <string name="detail_view_on_shazam_btn">View on shazam</string>
+    <string name="detail_view_num_snaps">Number of shazams:</string>
+    <string name="future_hits_title">Future Hits Chart</string>
+</resources>
